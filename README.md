@@ -40,8 +40,14 @@ A simple Android application built using **Kotlin** and **Jetpack Compose** that
 ## 📸 Screens
 
 * Splash Screen (Logo + Loader)
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee827159-27d5-45da-bd89-56bf230db70d" />
+
 * Dashboard Screen
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3eb0bedb-260b-4b38-96c8-fcf0d8b478b1" />
+
 * Second Screen
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b0117db-d9cf-4802-9c78-12046040e755" />
+
 
 ---
 
